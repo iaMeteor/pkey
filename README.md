@@ -1,3 +1,6 @@
+Public key for email
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFYpUvMBEADArvf/Y3difRdfAa/KJTJtx+fQbHR/R7PvtUN/j4mZ/NP1F1Cc
@@ -50,3 +53,4 @@ qWQ5Ot4fhg==
 =B4ry
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
